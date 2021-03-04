@@ -1,0 +1,16 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	Q9SYK9	UGT74E2	GO:0080044	quercetin 7-O-glucosyltransferase activity	F
+UniProtKB	Q9SYK9	UGT74E2	GO:0080043	quercetin 3-O-glucosyltransferase activity	F
+UniProtKB	Q9SYK9	UGT74E2	GO:0008194	UDP-glycosyltransferase activity	F
+UniProtKB	Q9SYK9	UGT74E2	GO:0016740	transferase activity	F
+UniProtKB	Q9SYK9	UGT74E2	GO:0016757	transferase activity, transferring glycosyl groups	F
+UniProtKB	Q9SYK9	UGT74E2	GO:0035251	UDP-glucosyltransferase activity	F
+UniProtKB	Q9SYK9	UGT74E2	GO:0042631	cellular response to water deprivation	P
+UniProtKB	Q9SYK9	UGT74E2	GO:0070301	cellular response to hydrogen peroxide	P
+UniProtKB	Q9SYK9	UGT74E2	GO:0010016	shoot system morphogenesis	P
+UniProtKB	Q9SYK9	UGT74E2	GO:0080167	response to karrikin	P
+UniProtKB	Q9SYK9	UGT74E2	GO:0052638	indole-3-butyrate beta-glucosyltransferase activity	F
+UniProtKB	Q9SYK9	UGT74E2	GO:0071215	cellular response to abscisic acid stimulus	P
+UniProtKB	Q9SYK9	UGT74E2	GO:0080024	indolebutyric acid metabolic process	P
+UniProtKB	Q9SYK9	UGT74E2	GO:0071475	cellular hyperosmotic salinity response	P
+UniProtKB	Q9SYK9	UGT74E2	GO:0052638	indole-3-butyrate beta-glucosyltransferase activity	F

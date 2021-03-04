@@ -1,0 +1,14 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	Q9FVS9	CYP96A15	GO:0005506	iron ion binding	F
+UniProtKB	Q9FVS9	CYP96A15	GO:0020037	heme binding	F
+UniProtKB	Q9FVS9	CYP96A15	GO:0016705	oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	F
+UniProtKB	Q9FVS9	CYP96A15	GO:0005783	endoplasmic reticulum	C
+UniProtKB	Q9FVS9	CYP96A15	GO:0004497	monooxygenase activity	F
+UniProtKB	Q9FVS9	CYP96A15	GO:0016491	oxidoreductase activity	F
+UniProtKB	Q9FVS9	CYP96A15	GO:0046872	metal ion binding	F
+UniProtKB	Q9FVS9	CYP96A15	GO:0016020	membrane	C
+UniProtKB	Q9FVS9	CYP96A15	GO:0016021	integral component of membrane	C
+UniProtKB	Q9FVS9	CYP96A15	GO:0005783	endoplasmic reticulum	C
+UniProtKB	Q9FVS9	CYP96A15	GO:0080133	midchain alkane hydroxylase activity	F
+UniProtKB	Q9FVS9	CYP96A15	GO:0010025	wax biosynthetic process	P
+UniProtKB	Q9FVS9	CYP96A15	GO:0005789	endoplasmic reticulum membrane	C
