@@ -1,0 +1,22 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	Q0PGJ6	AKR4C9	GO:0004032	alditol:NADP+ 1-oxidoreductase activity	F
+UniProtKB	Q0PGJ6	AKR4C9	GO:0005829	cytosol	C
+UniProtKB	Q0PGJ6	AKR4C9	GO:0070401	NADP+ binding	F
+UniProtKB	Q0PGJ6	AKR4C9	GO:0016491	oxidoreductase activity	F
+UniProtKB	Q0PGJ6	AKR4C9	GO:0047834	D-threo-aldose 1-dehydrogenase activity	F
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009636	response to toxic substance	P
+UniProtKB	Q0PGJ6	AKR4C9	GO:0016491	oxidoreductase activity	F
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009536	plastid	C
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009507	chloroplast	C
+UniProtKB	Q0PGJ6	AKR4C9	GO:0008106	alcohol dehydrogenase (NADP+) activity	F
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009414	response to water deprivation	P
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009409	response to cold	P
+UniProtKB	Q0PGJ6	AKR4C9	GO:0005783	endoplasmic reticulum	C
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009507	chloroplast	C
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009651	response to salt stress	P
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009507	chloroplast	C
+UniProtKB	Q0PGJ6	AKR4C9	GO:0016229	steroid dehydrogenase activity	F
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009414	response to water deprivation	P
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009409	response to cold	P
+UniProtKB	Q0PGJ6	AKR4C9	GO:0004033	aldo-keto reductase (NADP) activity	F
+UniProtKB	Q0PGJ6	AKR4C9	GO:0009651	response to salt stress	P

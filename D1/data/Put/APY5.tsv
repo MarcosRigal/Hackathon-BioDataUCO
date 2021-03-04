@@ -1,0 +1,19 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	Q6NQA8	APY5	GO:0017110	nucleoside-diphosphatase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0009134	nucleoside diphosphate catabolic process	P
+UniProtKB	Q6NQA8	APY5	GO:0016020	membrane	C
+UniProtKB	Q6NQA8	APY5	GO:0016787	hydrolase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0005524	ATP binding	F
+UniProtKB	Q6NQA8	APY5	GO:0016787	hydrolase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0000166	nucleotide binding	F
+UniProtKB	Q6NQA8	APY5	GO:0016020	membrane	C
+UniProtKB	Q6NQA8	APY5	GO:0016021	integral component of membrane	C
+UniProtKB	Q6NQA8	APY5	GO:0102485	dATP phosphohydrolase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0102486	dCTP phosphohydrolase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0102487	dUTP phosphohydrolase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0102488	dTTP phosphohydrolase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0102489	GTP phosphohydrolase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0102490	8-oxo-dGTP phosphohydrolase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0102491	dGTP phosphohydrolase activity	F
+UniProtKB	Q6NQA8	APY5	GO:0005773	vacuole	C
+UniProtKB	Q6NQA8	APY5	GO:0016020	membrane	C

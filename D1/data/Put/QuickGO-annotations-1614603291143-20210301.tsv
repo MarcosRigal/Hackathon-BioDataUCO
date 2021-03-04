@@ -1,0 +1,7 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	Q9FHE9	PP2A8	GO:0007165	signal transduction	P
+UniProtKB	Q9FHE9	PP2A8	GO:0016787	hydrolase activity	F
+UniProtKB	Q9FHE9	PP2A8	GO:0061809	NAD+ nucleotidase, cyclic ADP-ribose generating	F
+UniProtKB	Q9FHE9	PP2A8	GO:0050135	NAD(P)+ nucleosidase activity	F
+UniProtKB	Q9FHE9	PP2A8	GO:0030246	carbohydrate binding	F
+UniProtKB	Q9FHE9	PP2A8	GO:0003953	NAD+ nucleosidase activity	F

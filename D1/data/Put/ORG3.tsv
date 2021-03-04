@@ -1,0 +1,18 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	Q9M1K0	ORG3	GO:0006357	regulation of transcription by RNA polymerase II	P
+UniProtKB	Q9M1K0	ORG3	GO:0000981	DNA-binding transcription factor activity, RNA polymerase II-specific	F
+UniProtKB	Q9M1K0	ORG3	GO:0000977	RNA polymerase II transcription regulatory region sequence-specific DNA binding	F
+UniProtKB	Q9M1K0	ORG3	GO:0090575	RNA polymerase II transcription regulator complex	C
+UniProtKB	Q9M1K0	ORG3	GO:0003700	DNA-binding transcription factor activity	F
+UniProtKB	Q9M1K0	ORG3	GO:0046983	protein dimerization activity	F
+UniProtKB	Q9M1K0	ORG3	GO:0006357	regulation of transcription by RNA polymerase II	P
+UniProtKB	Q9M1K0	ORG3	GO:0005634	nucleus	C
+UniProtKB	Q9M1K0	ORG3	GO:0003677	DNA binding	F
+UniProtKB	Q9M1K0	ORG3	GO:0003700	DNA-binding transcription factor activity	F
+UniProtKB	Q9M1K0	ORG3	GO:0003700	DNA-binding transcription factor activity	F
+UniProtKB	Q9M1K0	ORG3	GO:0010106	cellular response to iron ion starvation	P
+UniProtKB	Q9M1K0	ORG3	GO:0006355	regulation of transcription, DNA-templated	P
+UniProtKB	Q9M1K0	ORG3	GO:0055072	iron ion homeostasis	P
+UniProtKB	Q9M1K0	ORG3	GO:0005515	protein binding	F
+UniProtKB	Q9M1K0	ORG3	GO:0005515	protein binding	F
+UniProtKB	Q9M1K0	ORG3	GO:0005634	nucleus	C

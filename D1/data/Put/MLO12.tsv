@@ -1,0 +1,15 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	O80961	MLO12	GO:0006952	defense response	P
+UniProtKB	O80961	MLO12	GO:0016021	integral component of membrane	C
+UniProtKB	O80961	MLO12	GO:0005516	calmodulin binding	F
+UniProtKB	O80961	MLO12	GO:0009607	response to biotic stimulus	P
+UniProtKB	O80961	MLO12	GO:0006952	defense response	P
+UniProtKB	O80961	MLO12	GO:0016020	membrane	C
+UniProtKB	O80961	MLO12	GO:0016021	integral component of membrane	C
+UniProtKB	O80961	MLO12	GO:0010150	leaf senescence	P
+UniProtKB	O80961	MLO12	GO:0006952	defense response	P
+UniProtKB	O80961	MLO12	GO:0005886	plasma membrane	C
+UniProtKB	O80961	MLO12	GO:0005886	plasma membrane	C
+UniProtKB	O80961	MLO12	GO:0050832	defense response to fungus	P
+UniProtKB	O80961	MLO12	GO:0005515	protein binding	F
+UniProtKB	O80961	MLO12	GO:0016020	membrane	C

@@ -1,0 +1,5 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	F4JLV4	At4g22470	GO:0009506	plasmodesma	C
+UniProtKB	F4JLV4	At4g22470	GO:0003674	molecular_function	F
+UniProtKB	F4JLV4	At4g22470	GO:0005886	plasma membrane	C
+UniProtKB	F4JLV4	At4g22470	GO:1901672	positive regulation of systemic acquired resistance	P
