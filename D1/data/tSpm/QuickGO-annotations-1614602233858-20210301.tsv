@@ -1,0 +1,17 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	O04609	WRKY22	GO:0000976	transcription regulatory region sequence-specific DNA binding	F
+UniProtKB	O04609	WRKY22	GO:0003700	DNA-binding transcription factor activity	F
+UniProtKB	O04609	WRKY22	GO:0005634	nucleus	C
+UniProtKB	O04609	WRKY22	GO:0003700	DNA-binding transcription factor activity	F
+UniProtKB	O04609	WRKY22	GO:0043565	sequence-specific DNA binding	F
+UniProtKB	O04609	WRKY22	GO:0006355	regulation of transcription, DNA-templated	P
+UniProtKB	O04609	WRKY22	GO:0005634	nucleus	C
+UniProtKB	O04609	WRKY22	GO:0006952	defense response	P
+UniProtKB	O04609	WRKY22	GO:0003677	DNA binding	F
+UniProtKB	O04609	WRKY22	GO:0010200	response to chitin	P
+UniProtKB	O04609	WRKY22	GO:0010150	leaf senescence	P
+UniProtKB	O04609	WRKY22	GO:0003700	DNA-binding transcription factor activity	F
+UniProtKB	O04609	WRKY22	GO:0003700	DNA-binding transcription factor activity	F
+UniProtKB	O04609	WRKY22	GO:0000976	transcription regulatory region sequence-specific DNA binding	F
+UniProtKB	O04609	WRKY22	GO:0071456	cellular response to hypoxia	P
+UniProtKB	O04609	WRKY22	GO:0005634	nucleus	C

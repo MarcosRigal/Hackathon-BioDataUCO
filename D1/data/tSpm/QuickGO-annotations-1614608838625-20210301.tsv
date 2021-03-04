@@ -1,0 +1,5 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	O49408	At4g18940	GO:0004113	2',3'-cyclic-nucleotide 3'-phosphodiesterase activity	F
+UniProtKB	O49408	At4g18940	GO:0009187	cyclic nucleotide metabolic process	P
+UniProtKB	O49408	At4g18940	GO:0016874	ligase activity	F
+UniProtKB	O49408	At4g18940	GO:0004112	cyclic-nucleotide phosphodiesterase activity	F

@@ -1,0 +1,9 @@
+﻿GENE PRODUCT DB	GENE PRODUCT ID	SYMBOL	GO TERM	GO NAME	GO ASPECT
+UniProtKB	A0A1I9LP65	At3g59850	GO:0004650	polygalacturonase activity	F
+UniProtKB	A0A1I9LP65	At3g59850	GO:0005975	carbohydrate metabolic process	P
+UniProtKB	A0A1I9LP65	At3g59850	GO:0016787	hydrolase activity	F
+UniProtKB	A0A1I9LP65	At3g59850	GO:0016798	hydrolase activity, acting on glycosyl bonds	F
+UniProtKB	A0A1I9LP65	At3g59850	GO:0016829	lyase activity	F
+UniProtKB	A0A1I9LP65	At3g59850	GO:0005618	cell wall	C
+UniProtKB	A0A1I9LP65	At3g59850	GO:0008152	metabolic process	P
+UniProtKB	A0A1I9LP65	At3g59850	GO:0005618	cell wall	C
