@@ -1,4 +1,6 @@
-![Hackthon.](https://biodatauco.github.io/assets/images/header_centro.png)
+<div align="center">
+    <img width="100%" src="https://biodatauco.github.io/assets/images/header_centro.png" alt="Hackthon">
+</div>
 
 On this repository we published the work that we did in 1st Hackathon BioDataUCO at the University of Córdoba in Course 20/21. These activity consisted of soving a daily challenge.
 
